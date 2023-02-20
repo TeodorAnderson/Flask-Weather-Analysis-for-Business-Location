@@ -1,7 +1,7 @@
 # MOD9TeodorAnderson
-##Surfs_up/ Advanced Data Storage
+## Surfs_up/ Advanced Data Storage
 
-###Overview of Project
+### Overview of Project
 
 Using SQL, Python and Flask for online reach and visualization, this project uses all three tools to explore Advanced Data Storage to retrieve temperatures and perform analyses to find the best time and location to open up a storefront location. 
 
