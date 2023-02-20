@@ -18,4 +18,5 @@ Using SQL, Python and Flask for online reach and visualization, this project use
 ### Summary
   To summarize, it would behoove the entrepreneur to look up the saturation of ice cream shops in Oahu, since the temperatures year round would show a steady, frequent amount of foot traffic. Although low temperature days rarely happen in december, with forecast they predicted and utilized for maintenance and cleaning
   ![rain stats](https://user-images.githubusercontent.com/116928193/220196769-70995ff0-3a28-4391-9e2f-0b02f7792829.png)
+ 
  Another two queries to make, is finding the statistics for rain for both months
