@@ -1,4 +1,4 @@
-# Flask Weather Analysis for Business Locatiom
+# Flask Weather Analysis for Business Location
 ## Surfs_up/ Advanced Data Storage
 
 ### Overview of Project
